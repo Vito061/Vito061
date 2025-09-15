@@ -82,6 +82,11 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
 
 <br/>
 <br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vito061" alt="vito061" /></a> </p>
+
+<img align="left" src="https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e47nkbzwzyyxa0yyvkccmxo3mxv6haug09oppk1hili&rid=giphy.gif&ct=g"  />
+
 <!--
 ### 📊 Statistics
 
