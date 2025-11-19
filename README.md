@@ -98,9 +98,9 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
 <br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vito061" alt="vito061" /></a> </p>
-
+<!--
 ### 📊 Statistics
-
+-- <--APAGUE ISSO
 <div align="center">
   <img 
     alt="GitHub Stats" 
@@ -121,7 +121,7 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito061&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
+-->
 
 
 
