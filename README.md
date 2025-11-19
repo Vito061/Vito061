@@ -114,9 +114,6 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
     src="https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e47nkbzwzyyxa0yyvkccmxo3mxv6haug09oppk1hili&rid=giphy.gif&ct=g" 
   />
 </div>
-
-<br>
-
 <div align="center">
   <img 
       alt="Top Langs" 
