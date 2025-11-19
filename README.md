@@ -111,17 +111,20 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
   <img 
     alt="Developer GIF" 
     height="150" 
-    style="padding-right: 10px;" 
     src="https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e47nkbzwzyyxa0yyvkccmxo3mxv6haug09oppk1hili&rid=giphy.gif&ct=g" 
   />
 </div>
 
-<!-- A terceira imagem ficaria aqui embaixo, alinhada à esquerda -->
-<img 
-    alt="Top Langs" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito061&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<br>
+
+<div align="center">
+  <img 
+      alt="Top Langs" 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito061&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
+
 
 
 
