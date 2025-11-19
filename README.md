@@ -120,7 +120,8 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200"
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito061&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
