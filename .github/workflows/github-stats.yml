@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: jstrieb/github-stats@main
+        uses: jstrieb/github-stats@master
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
