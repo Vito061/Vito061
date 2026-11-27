@@ -12,19 +12,33 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout do seu repositorio
         uses: actions/checkout@v4
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Baixar gerador oficial de trofeus
+        uses: actions/checkout@v4
         with:
-          username: vito061
-          output_path: generated/trophy.svg
-          theme: onedark
-          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: ryo-ma/github-profile-trophy
+          path: trophy-tool
 
-      - name: Commit and push
+      - name: Instalar Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v1.x
+
+      - name: Gerar SVG dos trofeus
+        working-directory: trophy-tool
+        env:
+          GITHUB_TOKEN1: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN2: ${{ secrets.ACCESS_TOKEN }}
         run: |
+          mkdir -p ../generated
+          deno run --allow-net --allow-env --allow-read --allow-write ./render_svg.ts vito061 ../generated onedark
+          mv ../generated/vito061.svg ../generated/trophy.svg
+
+      - name: Salvar imagem no repositorio
+        run: |
+          rm -rf trophy-tool
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add generated/trophy.svg
