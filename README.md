@@ -110,6 +110,50 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
 
 ### 📊 Statistics
 
+<!--
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="165" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/vito061/vito061/main/generated/overview.svg#gh-dark-mode-only" 
+  />
+  <img 
+    alt="Linguagens mais utilizadas" 
+    height="165" 
+    src="https://raw.githubusercontent.com/vito061/vito061/main/profile-summary-card-output/dracula/2-most-commit-language.svg" 
+  />
+</div>
+-->
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="165" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-tau-pied-92.vercel.app/api?username=Vito061&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" 
+  />
+  <img 
+    alt="Linguagens mais utilizadas" 
+    height="165" 
+    src="https://raw.githubusercontent.com/Vito061/Vito061/main/profile-summary-card-output/dracula/2-most-commit-language.svg" 
+  />
+</div>
+<!--
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="165" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vito061&show_icons=true&theme=onedark&include_all_commits=true" 
+  />
+  <img 
+    alt="Linguagens mais utilizadas" 
+    height="165" 
+    src="https://raw.githubusercontent.com/Vito061/Vito061/main/profile-summary-card-output/dracula/2-most-commit-language.svg" 
+  />
+</div>
+-->
+<!--
 <div align="center">
   <img 
     alt="GitHub Stats" 
@@ -122,6 +166,8 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
     height="150" 
     src="https://media1.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e47nkbzwzyyxa0yyvkccmxo3mxv6haug09oppk1hili&rid=giphy.gif&ct=g" 
   />
+-->
+<!--
 </div>
 <div align="center">
   <img 
@@ -130,10 +176,13 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito061&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
+-->
 <!--
-![snake gif](https://raw.githubusercontent.com/Vito061/Vito061/output/github-snake-dark.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vito061/Vito061/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="400" alt="Linguagens mais utilizadas" />
+</div>
+-->
+<!--
 <p align="center">
     <a href="https://github.com/Vito061">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vito061&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -161,3 +210,18 @@ My name is Vítor Alencar Ribeiro, I am a Computer Science student at the Federa
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!--
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="165" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/Vito061/Vito061/main/profile-summary-card-output/dracula/3-stats.svg" 
+  />
+  <img 
+    alt="Linguagens mais utilizadas" 
+    height="165" 
+    src="https://raw.githubusercontent.com/Vito061/Vito061/main/profile-summary-card-output/dracula/2-most-commit-language.svg" 
+  />
+</div>
+-->
